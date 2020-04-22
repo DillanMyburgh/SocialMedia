@@ -7,7 +7,7 @@ import {
   IonContent,
   IonSearchbar,
 } from "@ionic/react";
-import "./Home.css";
+
 
 const Settings = () => {
   return (

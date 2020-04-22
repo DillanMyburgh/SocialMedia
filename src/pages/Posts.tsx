@@ -7,7 +7,7 @@ import {
   IonToolbar,
 } from "@ionic/react";
 
-import './Home.css'
+
 import IndvPost from "../components/IndvPost";
 import data from "../Data/postData";
 

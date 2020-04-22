@@ -7,7 +7,7 @@ import {
 } from "@ionic/react";
 import React from "react";
 import HomeContent from "../components/HomeContent";
-import "./Home.css";
+
 
 const Home: React.FC = () => {
   return (
